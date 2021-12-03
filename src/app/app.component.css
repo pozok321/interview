@@ -1,0 +1,22 @@
+example-full-width {
+  margin: auto;
+  display: block;
+}
+
+.background {
+  background-color: aquamarine;
+}
+
+.mat-form-field-infix {
+  display: block;
+  position: relative;
+  flex: auto;
+  min-width: 0;
+  width: 100%;
+}
+
+.img-dokter {
+  height: 200px;
+  width: 200px;
+  padding: 70px;
+}
